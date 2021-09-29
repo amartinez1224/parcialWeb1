@@ -1,0 +1,66 @@
+.navbar-expand-md{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+  }
+
+.nav-link img{
+    max-width: 30pt;
+    max-height: 24pt
+}
+
+
+#navleft{
+    width: 10%!important;
+}
+
+.titulo{
+    font-family: 'Satisfy';
+    font-size: 22px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:black;
+}
+
+#titulo{
+    text-align:center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.row{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#productos{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.card-img-top{
+    width: 100%; 
+    height: 25vh;
+    object-fit: cover;
+}
+
+.btn-success{
+    background-color:rgb(180,175,170);
+    border-color: black;
+    color: black;
+}
+
+.btn-danger{
+    border-color: black;
+    color: black;
+}
+
+.total{
+    float: right;
+}
+
+.footer{
+    text-align: center;
+}
