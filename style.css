@@ -1,66 +1,78 @@
-.navbar-expand-md{
+.navbar-expand-md {
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 100;
-  }
+}
 
-.nav-link img{
+.nav-link img {
     max-width: 30pt;
     max-height: 24pt
 }
 
 
-#navleft{
-    width: 10%!important;
+#navleft {
+    width: 10% !important;
 }
 
-.titulo{
+.titulo {
     font-family: 'Satisfy';
     font-size: 22px;
 }
 
-.navbar-light .navbar-nav .nav-link{
-    color:black;
+.navbar-light .navbar-nav .nav-link {
+    color: black;
 }
 
-#titulo{
-    text-align:center;
+#titulo {
+    text-align: center;
     font-size: xx-large;
     font-weight: bold;
 }
 
-.row{
+.row {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
 
-#productos{
+#productos {
     padding-left: 1em;
     padding-right: 1em;
 }
 
-.card-img-top{
-    width: 100%; 
+.card-img-top {
+    width: 100%;
     height: 25vh;
     object-fit: cover;
 }
 
-.btn-success{
-    background-color:rgb(180,175,170);
+.btn-success {
+    background-color: rgb(180, 175, 170);
     border-color: black;
     color: black;
 }
 
-.btn-danger{
+.btn-danger {
     border-color: black;
     color: black;
 }
 
-.total{
+.total {
     float: right;
 }
 
-.footer{
+.footer {
     text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.liB{
+    float: right;
+}
+
+li{
+    margin-bottom: 3px; 
 }
